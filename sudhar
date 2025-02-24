@@ -1,0 +1,8 @@
+#include<stdio.h>
+void sum ()
+{int k=10 ,j=20;
+printf('%d" , k+j);
+return 0;
+}
+int main ()
+{}

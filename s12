@@ -2,4 +2,6 @@
 #include <iostream>
 usning std:
 int main()
-{}
+{print f("hello world"
+return 0;}
+
